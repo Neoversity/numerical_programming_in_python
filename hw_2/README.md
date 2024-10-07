@@ -75,4 +75,4 @@ python svd_image_compression.py
 
 ## Автори
 
-- **Антон Бабенко** - [antonbabenko](https://github.com/antonbabenko)
+- **Антон Бабенко** - [antonbabenko](https://github.com/bobantonbob)
