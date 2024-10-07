@@ -63,11 +63,11 @@ python svd_image_compression.py
 
 - Оригінальне зображення:
 
-![Original](images/original.jpg)
+![Original](DALL_1.webp)
 
 - Стиснуте зображення з k = 50:
 
-![Compressed](images/compressed_k50.jpg)
+![Compressed](DALL_1_k50.png)
 
 ## Ліцензія
 
