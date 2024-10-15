@@ -98,18 +98,18 @@
 
 
 
-from scipy.stats import kendalltau
+# from scipy.stats import kendalltau
 
-# Використовуємо ті самі дані X і Y
+# # Використовуємо ті самі дані X і Y
 
-# Розрахунок коефіцієнта кореляції Кендала
-kendall_coefficient, _ = kendalltau(X, Y)
+# # Розрахунок коефіцієнта кореляції Кендала
+# kendall_coefficient, _ = kendalltau(X, Y)
 
-print(f"Коефіцієнт кореляції Кендала: {kendall_coefficient}")
+# print(f"Коефіцієнт кореляції Кендала: {kendall_coefficient}")
 
-#https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
-import seaborn as sb
-from google.colab import drive
-drive.mount('/content/drive')
+# #https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
+# import seaborn as sb
+# from google.colab import drive
+# drive.mount('/content/drive')
 
-df = pd.read_csv("/content/drive/MyDrive/!Kafedra/GOIT/woolf/numprog/mod2_2/suicide-rates.csv")
+# df = pd.read_csv("/content/drive/MyDrive/!Kafedra/GOIT/woolf/numprog/mod2_2/suicide-rates.csv")
