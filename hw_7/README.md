@@ -54,7 +54,7 @@
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/yourusername/spam-classifier.git
+   git clone https://github.com/Neoversity/numerical_programming_in_python.git
    ```
 
 2. Перейдіть у директорію проєкту:
@@ -69,6 +69,4 @@
 
 4. Запустіть Jupyter Notebook або Python-скрипт для аналізу даних та класифікації.
 
-## Контакт
 
-Для запитань чи пропозицій, будь ласка, зв'яжіться зі мною за адресою: anton.babenko@example.com
